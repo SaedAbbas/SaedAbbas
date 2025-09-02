@@ -1,45 +1,71 @@
-<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm Anurag. I do open source!" src="./assets/gh-readme-header.png" /></a></p>
+<p align="center">
+  <img src="./assets/header-dev.png" width="85%" alt="Hello World! I'm Saed 🚀"/>
+</p>
 
-<br />
+<h2 align="center">✨ Frontend Developer | React & Next.js Enthusiast ✨</h2>
 
-I'm a self-taught passionate FrontEnd developer from India 🇮🇳
+<p align="center">
+  Self-taught passionate developer from <b>Gaza, Palestine 🇵🇸</b> <br/>
+  I build powerful & modern web apps with a focus on <b>performance, UI/UX, and scalability</b>.
+</p>
 
-**About me**
+---
 
-- 💼 FrontEnd Engineer at [Razorpay](http://razorpay.com/)
+### 🚀 About Me
 
-- 📈 Built github-readme-stats, verlyjs and more, **50m+** hits • **50K** stars on GitHub
+- 💼 Frontend Developer (React • Next.js • TypeScript)
+- 🧩 Built full E-commerce apps, Authentication systems, and CMS-powered projects
+- ⚡ I craft sleek UI with TailwindCSS + Framer Motion
+- 🔥 Experienced in **State Management** → Redux Toolkit, Zustand, React Query
+- 🛠️ Integrated with **Strapi CMS, Clerk, Resend** and more
+- ❤️ Passionate about **clean code**, DX (developer experience), and UI animations
+- 📚 Always learning, even during hard times in Gaza 💪
 
-- ❤️ I love writing TypeScript, and building fun experiments on type-level
+---
 
-- 💬 Ask me about anything [here](https://github.com/anuraghazra/anuraghazra/issues)
+### 🛠️ Tech Stack
 
-<code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" alt="graphql" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-<code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
+<code><img height="28" src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs,redux,graphql,nodejs,git,github" /></code>
 
+---
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" /></a> |
+### 📊 GitHub Stats
+
+| <a href="https://github.com/saedabbas"><img align="center" src="https://github-readme-stats.vercel.app/api?username=saedabbas&show_icons=true&theme=tokyonight&hide_border=true" alt="Saed's GitHub stats" /></a> | <a href="https://github.com/saedabbas"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saedabbas&layout=compact&theme=tokyonight&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-#### Top Repositories
+---
 
+### 🔥 Featured Projects  
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=buefy" />
+<a href="https://github.com/saedabbas/ecommerce-next">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=saedabbas&repo=ecommerce-next&theme=tokyonight" />
 </a>
-<a href="https://github.com/anuraghazra/anuraghazra.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=buefy" />
+<a href="https://github.com/saedabbas/portfolio">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=saedabbas&repo=portfolio&theme=tokyonight" />
 </a>
 
-<br />
-<br />
+---
 
-<a href="https://twitter.com/anuraghazru">
-  <img align="right" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+### 🌍 Connect With Me  
+
+<a href="https://twitter.com/yourtwitter">
+  <img align="left" alt="Twitter" width="30px" src="https://skillicons.dev/icons?i=twitter"/>
 </a>
-<a href="https://codesandbox.io/u/anuraghazra">
-  <img align="right" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
+<a href="https://linkedin.com/in/yourlinkedin">
+  <img align="left" alt="LinkedIn" width="30px" src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
+<a href="https://codesandbox.io/u/saedabbas">
+  <img align="left" alt="CodeSandbox" width="30px" src="https://skillicons.dev/icons?i=codesandbox"/>
+</a>
+<a href="mailto:yourmail@gmail.com">
+  <img align="left" alt="Gmail" width="30px" src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+<br/>
+<br/>
+
+---
+
+<p align="center">⚡ <b>"Code is my escape, Creativity is my weapon."</b> ⚡</p>
+<p align="center">🇵🇸 Built with love from Gaza</p>
