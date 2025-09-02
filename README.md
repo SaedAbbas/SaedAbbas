@@ -58,17 +58,15 @@
 
 ### 🌍 Connect With Me  
 
-<a href="https://github.com/SaedAbbas">
-  <img align="left" alt="GitHub" width="30px" src="https://skillicons.dev/icons?i=github"/>
-</a>
+
 <a href="https://www.linkedin.com/in/saed-abbas-3aa31916a/">
   <img align="left" alt="LinkedIn" width="30px" src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
-<a href="https://www.facebook.com/sa15ed">
-  <img align="left" alt="Facebook" width="30px" src="https://skillicons.dev/icons?i=facebook"/>
-</a>
 <a href="https://www.instagram.com/saed.m.abbas/">
   <img align="left" alt="Instagram" width="30px" src="https://skillicons.dev/icons?i=instagram"/>
+</a>
+<a href="https://www.facebook.com/sa15ed">
+  <img align="left" alt="Facebook" width="30px" src="https://skillicons.dev/icons?i=facebook"/>
 </a>
 
 <br/>
