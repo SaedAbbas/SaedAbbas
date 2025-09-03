@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="./assets/saed-github.png" width="85%" alt="Hello World! I'm Saed 🚀"/>
-</p>
-
 <h2 align="center">💻 Software Engineer | Frontend Developer (React & Next.js)</h2>
 
 <p align="center">
