@@ -25,13 +25,6 @@
 
 ---
 
-### 📊 GitHub Stats  
-
-| <a href="https://github.com/SaedAbbas"><img align="center" src="https://github-readme-stats.vercel.app/api?username=SaedAbbas&show_icons=true&theme=tokyonight&hide_border=true" alt="Saed's GitHub stats" /></a> | <a href="https://github.com/SaedAbbas"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaedAbbas&layout=compact&theme=tokyonight&hide_border=true" /></a> |
-| ------------- | ------------- |
-
----
-
 ### 🚀 Featured Projects  
 
 <a href="https://github.com/SaedAbbas/airbnb-clone-app">
