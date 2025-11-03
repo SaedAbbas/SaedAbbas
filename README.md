@@ -65,10 +65,4 @@
   <img align="left" alt="Facebook" width="30px" src="https://skillicons.dev/icons?i=facebook"/>
 </a>
 
-<br/>
-<br/>
 
----
-
-<p align="center">⚡ <b>"Code is my escape, Creativity is my weapon."</b> ⚡</p>
-<p align="center">🇵🇸 Built with love from Gaza</p>
